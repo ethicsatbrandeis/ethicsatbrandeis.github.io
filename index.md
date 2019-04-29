@@ -1,7 +1,8 @@
 # Welcome to our home page!
 ## This the *Ethics in NLP* reading circle at Brandeis.  
 
-Our next meeting will be April 30th, 2019. We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.
+Our next meeting will be April 30th, 2019. We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
+
 **Readings:**
 - [Microsoft and GitHub Workers Support 996.ICU](https://github.com/MSWorkers/support.996.ICU?)  
 - [Thousands of Amazon employees ask the company to adopt a climate change plan](https://www.theverge.com/2019/4/10/18304800/amazon-employees-open-letter-climate-change-plan)  
