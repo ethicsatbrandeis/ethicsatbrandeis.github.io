@@ -18,7 +18,7 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Location is currently TBD
 ### Foundations, September 27th, 2019 
 We'll be starting off the year with framing the topic of and building a foundation around ethics in NLP. We'll also chat about possible topics for the rest of the meetings for the fall semester. 
 
-**Readings**
+#### Readings
 
 boyd,  danah, & Crawford, K. (2012). Critical Questions for Big Data. Information, Communication & Society, 15(5), 662–679. https://doi.org/10.1080/1369118X.2012.678878
 
@@ -32,7 +32,9 @@ Whittacker, Meredith, Crawford, Kate, Dobbe, R., Fried, G., Kaziunas, E., Mathur
 
 ### Ethics at Work, April 30th, 2019
 We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
-**Readings**
+
+#### Readings
+
 - [Microsoft and GitHub Workers Support 996.ICU](https://github.com/MSWorkers/support.996.ICU?)  
 - [Thousands of Amazon employees ask the company to adopt a climate change plan](https://www.theverge.com/2019/4/10/18304800/amazon-employees-open-letter-climate-change-plan)  
 - [An Open Letter to Uber: We Need to Do Right By Our Drivers](https://onezero.medium.com/an-open-letter-to-uber-we-need-to-do-right-by-our-drivers-81453fad41e1)  
