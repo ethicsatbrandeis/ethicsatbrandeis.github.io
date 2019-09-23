@@ -1,8 +1,14 @@
 # Welcome to our home page!
 ## This the *Ethics in NLP* reading circle at Brandeis.  
+The Ethics in Natural Language Processing (NLP) reading circle is a graduate student led reading group housed in the Department of Computer Science at Brandeis University. While the group is centered around the computational linguistics community at Brandeis, anyone interested in the topic is welcome to join us!
 
-Our next meeting will be April 30th, 2019. We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
+## Fall 2019 
+Schedule out ~ soon ~ ! 
 
+## Previous Meetings
+
+###Ethics at Work, April 30th, 2019
+We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
 **Readings:**
 - [Microsoft and GitHub Workers Support 996.ICU](https://github.com/MSWorkers/support.996.ICU?)  
 - [Thousands of Amazon employees ask the company to adopt a climate change plan](https://www.theverge.com/2019/4/10/18304800/amazon-employees-open-letter-climate-change-plan)  
@@ -14,5 +20,3 @@ Our next meeting will be April 30th, 2019. We'll be talking about Ethics at Work
 - [Facebook contractors faced Christmas ultimatum: accept wage offer or lose jobs](https://www.theguardian.com/technology/2018/dec/20/facebook-contractors-filter-digital-labor-dispute-christmas)
 - [Kickstarter’s staff is unionizing](https://www.theverge.com/2019/3/19/18254995/kickstarter-unionizing-union-representation-inclusivity-transparency-tech-us-crowdfunding)
 - [Why Silicon Valley can’t fix itself](https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism)
-
-[![](Ethics in NLP-430.jpg)](poster)
