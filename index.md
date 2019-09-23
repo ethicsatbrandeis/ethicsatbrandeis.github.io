@@ -7,7 +7,7 @@ Schedule out ~ soon ~ !
 
 ## Previous Meetings
 
-###Ethics at Work, April 30th, 2019
+### Ethics at Work, April 30th, 2019
 We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
 **Readings:**
 - [Microsoft and GitHub Workers Support 996.ICU](https://github.com/MSWorkers/support.996.ICU?)  
