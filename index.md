@@ -2,14 +2,37 @@
 ## This the *Ethics in NLP* reading circle at Brandeis.  
 The Ethics in Natural Language Processing (NLP) reading circle is a graduate student led reading group housed in the Department of Computer Science at Brandeis University. While the group is centered around the computational linguistics community at Brandeis, anyone interested in the topic is welcome to join us!
 
-## Fall 2019 
-Schedule out ~ soon ~ ! 
+PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. 
+
+## Fall 2019 Schedule
+Meetings are every other Friday from 2:00pm to 3:20pm. Location is currently TBD. Please find a tenative schedule below. 
+
+9/27 - *Foundations* <br>
+10/11 - TBD <br>
+10/25 - TBD <br>
+11/8 - TBD <br>
+11/22 - TBD <br>
+12/6 - TBD<br>
+
+## Upcoming Meetings
+### Foundations, September 27th, 2019 
+We'll be starting off the year with framing the topic of and building a foundation around ethics in NLP. We'll also chat about possible topics for the rest of the meetings for the fall semester. 
+
+**Readings**
+
+boyd,  danah, & Crawford, K. (2012). Critical Questions for Big Data. Information, Communication & Society, 15(5), 662–679. https://doi.org/10.1080/1369118X.2012.678878
+
+Hovy, D., & Spruit, S. L. (2016). The Social Impact of Natural Language Processing. Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), 591–598. https://doi.org/10.18653/v1/P16-2096
+
+Winner, L. (1980). Do Artifacts Have Politics? Daedalus, 109(1), 121–136. Retrieved from JSTOR.
+
+Whittacker, Meredith, Crawford, Kate, Dobbe, R., Fried, G., Kaziunas, E., Mathur, V., … Schwartz, O. (2018). AI Now 2018 Report (p. 62) [AI Now Report 2018]. Retrieved from AI Now website: https://ainowinstitute.org/AI_Now_2018_Report.pdf
 
 ## Previous Meetings
 
 ### Ethics at Work, April 30th, 2019
 We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
-**Readings:**
+**Readings**
 - [Microsoft and GitHub Workers Support 996.ICU](https://github.com/MSWorkers/support.996.ICU?)  
 - [Thousands of Amazon employees ask the company to adopt a climate change plan](https://www.theverge.com/2019/4/10/18304800/amazon-employees-open-letter-climate-change-plan)  
 - [An Open Letter to Uber: We Need to Do Right By Our Drivers](https://onezero.medium.com/an-open-letter-to-uber-we-need-to-do-right-by-our-drivers-81453fad41e1)  
