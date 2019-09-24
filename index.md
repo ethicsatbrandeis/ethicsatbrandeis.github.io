@@ -24,7 +24,7 @@ danah boyd and Kate Crawford. 2012. Critical Questions for Big Data. Information
 
 Dirk Hovy and Shannon L. Spruit. 2016. The Social Impact of Natural Language Processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 591–598, Berlin, Germany, August. Association for Computational Linguistics.
 
-Whittacker, Meredith, Crawford, Kate, Roel Dobbe, Genevieve Fried, Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz. 2018. AI Now 2018 Report. Technical report, NYU, New York, NY, USA, December.
+Meredith Whittacker, Kate Crawford, Roel Dobbe, Genevieve Fried, Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz. 2018. AI Now 2018 Report. Technical report, NYU, New York, NY, USA, December.
 
 Langdon Winner. 1980. Do Artifacts Have Politics? Daedalus, 109(1):121–136.
 
