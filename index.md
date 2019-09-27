@@ -5,7 +5,7 @@ The Ethics in Natural Language Processing (NLP) reading circle is a graduate stu
 PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. 
 
 ## Fall 2019 Schedule
-Meetings are every other Friday from 2:00pm to 3:20pm. Location is currently TBD. Please find a tenative schedule below. 
+Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative schedule below. The location of our first meeting will be the Vertica lounge in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9).  
 
 9/27 - *Foundations* <br>
 10/11 - TBD <br>
