@@ -5,16 +5,24 @@ The Ethics in Natural Language Processing (NLP) reading circle is a graduate stu
 PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. 
 
 ## Fall 2019 Schedule
-Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative schedule below. The location of our first meeting will be the Vertica lounge in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9).  
+Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative schedule below. The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9).  
 
 9/27 - *Foundations* <br>
-10/11 - TBD <br>
+10/11 - *Societal Influence* <br>
 10/25 - TBD <br>
 11/8 - TBD <br>
 11/22 - TBD <br>
 12/6 - TBD<br>
 
 ## Upcoming Meetings
+### Societial Influence, October 11th, 2019
+We'll be about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
+
+#### Readings 
+Forthcoming. 
+
+## Previous Meetings
+
 ### Foundations, September 27th, 2019 
 We'll be starting off the year with framing the topic of and building a foundation around ethics in NLP. We'll also chat about possible topics for the rest of the meetings for the fall semester. 
 
@@ -27,8 +35,6 @@ Dirk Hovy and Shannon L. Spruit. 2016. The Social Impact of Natural Language Pro
 Meredith Whittacker, Kate Crawford, Roel Dobbe, Genevieve Fried, Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz. 2018. AI Now 2018 Report. Technical report, NYU, New York, NY, USA, December.
 
 Langdon Winner. 1980. Do Artifacts Have Politics? Daedalus, 109(1):121–136.
-
-## Previous Meetings
 
 ### Ethics at Work, April 30th, 2019
 We'll be talking about Ethics at Work with a guest speaker from the *Tech Workers Coalition*. Below you'll find suggested readings for the meeting.  
