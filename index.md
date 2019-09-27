@@ -15,7 +15,7 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 12/6 - TBD<br>
 
 ## Upcoming Meetings
-### Societial Influence, October 11th, 2019
+### Societal Influence, October 11th, 2019
 We'll be about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
 
 #### Readings 
