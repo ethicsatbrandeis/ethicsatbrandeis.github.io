@@ -23,7 +23,7 @@ Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yuli
 
 Zeynep Tufekci. 2017. Introduction and Chapter One. In Twitter and tear gas: the power and fragility of networked protest. Yale University Press, New Haven ; London.
 
-*Optional*
+*Optional* <br>
 Jean Baudrillard. 2002. Simulacra and Simulations. In Mard Poster, editor, Jean Baudrillard, Selected Writtings. Stanford University Press, 2nd edition.
 
 
