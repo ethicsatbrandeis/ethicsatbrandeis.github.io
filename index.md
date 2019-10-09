@@ -19,13 +19,13 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 We'll be about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
 
 #### Readings 
-Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. 2018. Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies. arXiv:1808.09386 [cs], August. arXiv: 1808.09386.
+Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. 2018. Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies. In volume Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 3570–3580, Brussels, Belgium, August. Association for Computational Linguistics.
 
 Zeynep Tufekci. 2017. Introduction and Chapter One. In Twitter and tear gas: the power and fragility of networked protest. Yale University Press, New Haven ; London.
 
 *Optional* <br>
-Jean Baudrillard. 2002. Simulacra and Simulations. In Mard Poster, editor, Jean Baudrillard, Selected Writtings. Stanford University Press, 2nd edition.
 
+Jean Baudrillard. 2002. Simulacra and Simulations. In Mard Poster, editor, Jean Baudrillard, Selected Writtings. Stanford University Press, Stanford, 2nd edition.
 
 ## Previous Meetings
 
