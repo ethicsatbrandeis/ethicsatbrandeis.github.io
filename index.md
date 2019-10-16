@@ -16,7 +16,10 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 
 ## Upcoming Meetings
 ### Bias and Discrimination, October 25th, 2019
-We'll be talking about how bias can affect NLP tools. 
+We'll be talking about how bias and discrimination, particularly regarding race and gender, effect NLP systems. 
+
+#### Readings 
+TBD!
 
 ## Previous Meetings
 ### Societal Influence, October 11th, 2019
