@@ -9,14 +9,18 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 
 9/27 - *Foundations* <br>
 10/11 - *Societal Influence* <br>
-10/25 - TBD <br>
+10/25 - *Bias and Discrimination* <br>
 11/8 - TBD <br>
 11/22 - TBD <br>
 12/6 - TBD<br>
 
 ## Upcoming Meetings
+### Bias and Discrimination, October 25th, 2019
+We'll be talking about how bias can affect NLP tools. 
+
+## Previous Meetings
 ### Societal Influence, October 11th, 2019
-We'll be about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
+We'll be talking about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
 
 #### Readings 
 Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. 2018. Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies. In volume Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 3570–3580, Brussels, Belgium, August. Association for Computational Linguistics.
@@ -26,9 +30,6 @@ Zeynep Tufekci. 2017. Introduction and Chapter One. In Twitter and tear gas: the
 *Optional* <br>
 
 Jean Baudrillard. 2002. Simulacra and Simulations. In Mard Poster, editor, Jean Baudrillard, Selected Writtings. Stanford University Press, Stanford, 2nd edition.
-
-## Previous Meetings
-
 ### Foundations, September 27th, 2019 
 We'll be starting off the year with framing the topic of and building a foundation around ethics in NLP. We'll also chat about possible topics for the rest of the meetings for the fall semester. 
 
