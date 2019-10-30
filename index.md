@@ -10,18 +10,27 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 9/27 - *Foundations* <br>
 10/11 - *Societal Influence* <br>
 10/25 - *Bias and Discrimination* <br>
-11/8 - TBD <br>
+11/8 - *Data Collection and Surveillence* <br>
 11/22 - TBD <br>
 12/6 - TBD<br>
 
 ## Upcoming Meetings
+### Data Collection and Surveillence, November 8th, 2019
+We'll be talking about ethical data collection for use in Natural Language Processing and the relationship between surveillence and data.
+
+#### Readings
+TBD!
+
+## Previous Meetings
 ### Bias and Discrimination, October 25th, 2019
 We'll be talking about how bias and discrimination, particularly regarding race and gender, effect NLP systems. 
 
 #### Readings 
-TBD!
 
-## Previous Meetings
+Frantz Fanon. 2008. Chapter One: The Negro and Language. In Black skin, white masks, Get political. Pluto-Press, London, New ed edition.
+
+Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky, and Adam Kalai. 2019. What’s in a Name? Reducing Bias in Bios without Access to Protected Attributes. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4187–4195, Minneapolis, Minnesota, June. Association for Computational Linguistics.
+
 ### Societal Influence, October 11th, 2019
 We'll be talking about the societal influence NLP applications can have broadly, from social media filter bubbles to language models and speech synthesis in *deep fakes*. 
 
