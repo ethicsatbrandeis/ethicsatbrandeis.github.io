@@ -16,10 +16,14 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 
 ## Upcoming Meetings
 ### Data Collection and Surveillence, November 8th, 2019
+**Important Note**: We'll be meeting in Volen 201 for this meeting.
+
 We'll be talking about ethical data collection for use in Natural Language Processing and the relationship between surveillence and data.
 
 #### Readings
-TBD!
+Michel Foucault. Panopticism from Discipline & Punish: The Birth of the Prison. michel foucault:13.
+
+Colin Koopman. 2015. The Algorithm and the Watchtower. The New Inquiry, September.
 
 ## Previous Meetings
 ### Bias and Discrimination, October 25th, 2019
