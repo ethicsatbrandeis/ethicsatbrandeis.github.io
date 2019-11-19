@@ -11,13 +11,20 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 10/11 - *Societal Influence* <br>
 10/25 - *Bias and Discrimination* <br>
 11/8 - *Data Collection and Surveillence* <br>
-11/22 - TBD <br>
+11/22 - *NLP and Exploitation* <br>
 12/6 - TBD<br>
 
 ## Upcoming Meetings
-### TBD, November 22nd, 2019
+### NLP and Exploitation, November 22nd, 2019
 
-Stay tuned!
+How do we avoid exploiting the communities that we study? And what social obligations do we have to those communities once their data is gathered? A discussion focused on the ethics of Mechanical Turk."
+
+#### Readings 
+William Labov - "Objectivity and commitment in linguistic science" 1982 https://jstor.org/stable/4167310
+
+Andy Newman - "I Found Work on an Amazon Website. I Made 97 Cents an Hour." 2019 https://nytimes.com/interactive/2019/11/15/nyregion/amazon-mechanical-turk.html
+
+Vanessa Williamson - "Can crowdsourcing be ethical?" 2016 https://www.brookings.edu/blog/techtank/2016/02/03/can-crowdsourcing-be-ethical-2/
 
 ## Previous Meetings
 ### Data Collection and Surveillence, November 8th, 2019
