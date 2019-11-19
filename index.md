@@ -17,7 +17,7 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 ## Upcoming Meetings
 ### NLP and Exploitation, November 22nd, 2019
 
-How do we avoid exploiting the communities that we study? And what social obligations do we have to those communities once their data is gathered? A discussion focused on the ethics of Mechanical Turk."
+How do we avoid exploiting the communities that we study? And what social obligations do we have to those communities once their data is gathered? A discussion focused on the ethics of Mechanical Turk.
 
 #### Readings 
 William Labov - "Objectivity and commitment in linguistic science" 1982 https://jstor.org/stable/4167310
