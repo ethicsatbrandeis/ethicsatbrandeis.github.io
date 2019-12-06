@@ -12,7 +12,7 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 10/25 - *Bias and Discrimination* <br>
 11/8 - *Data Collection and Surveillence* <br>
 11/22 - *NLP and Exploitation* <br>
-12/6 - TBD<br>
+12/6 - End of Semester Recap, Planning for Next Semester<br>
 
 ## Upcoming Meetings
 ### NLP and Exploitation, November 22nd, 2019
