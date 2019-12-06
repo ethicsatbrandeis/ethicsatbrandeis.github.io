@@ -12,9 +12,15 @@ Meetings are every other Friday from 2:00pm to 3:20pm. Please find a tenative sc
 10/25 - *Bias and Discrimination* <br>
 11/8 - *Data Collection and Surveillence* <br>
 11/22 - *NLP and Exploitation* <br>
-12/6 - End of Semester Recap, Planning for Next Semester<br>
+12/6 - *End of Semester Meeting* <br>
 
 ## Upcoming Meetings
+### End of Semester Recap Meeting, December 6th, 2019
+
+Overview of what we've accomplished this semester and planning for the next semester of the reading group. Please feel very welcome to bring any suggestions or ideas!
+
+
+## Previous Meetings
 ### NLP and Exploitation, November 22nd, 2019
 
 How do we avoid exploiting the communities that we study? And what social obligations do we have to those communities once their data is gathered? A discussion focused on the ethics of Mechanical Turk.
@@ -26,7 +32,6 @@ Andy Newman - "I Found Work on an Amazon Website. I Made 97 Cents an Hour." 2019
 
 Vanessa Williamson - "Can crowdsourcing be ethical?" 2016 https://www.brookings.edu/blog/techtank/2016/02/03/can-crowdsourcing-be-ethical-2/
 
-## Previous Meetings
 ### Data Collection and Surveillence, November 8th, 2019
 **Important Note**: We'll be meeting in Volen 201 for this meeting.
 
