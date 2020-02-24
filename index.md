@@ -31,12 +31,16 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 
 Computing technology has a massive carbon footprint. How can be better understand the carbon footprint of NLP models today and what should we take into account when building these technologies? 
 
+#### Readings
+
 Energy and Policy Considerations for Deep Learning in NLP, Strubell et al - <https://arxiv.org/abs/1906.02243>
 Environmental Impact of Large-Scale NLP Model Training with Emma Strubell (podcast) - <https://twimlai.com/twiml-talk-286-environmental-impact-of-large-scale-nlp-model-training-with-emma-strubell/>
 
 ### NLP and Fake News Detection, March 10th, 2020
 
 Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
+
+#### Readings
 
 Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
 
