@@ -5,7 +5,9 @@ The Ethics in Natural Language Processing (NLP) reading circle is a graduate stu
 PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. 
 
 ## Spring 2020 Schedule
-Meetings are every other week, with the exact day and time currently TBD. The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9) (although, if the weather is nice, sometimes we'll convene on the grass outside Volen, next to Chapels Field).  
+Meetings are every other Tuesday, from 5:00 - 6:30pm. 
+
+The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9) (although, if the weather is nice, sometimes we'll convene on the grass outside Volen, next to Chapels Field).  
 
 2/11 - *Begining of Semester Meeting* <br>
 2/25 - *Environment Concerns* <br>
