@@ -7,7 +7,13 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 ## Spring 2020 Schedule
 Meetings are every other week, with the exact day and time currently TBD. The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9) (although, if the weather is nice, sometimes we'll convene on the grass outside Volen, next to Chapels Field).  
 
-Stay tuned for our spring schedule and topics!
+2/11 - *Begining of Semester Meeting* <br>
+2/25 - *Environment Concerns* <br>
+3/10 - *NLP and Fake News Detections* <br>
+3/24 - *Psychology of Technology* <br>
+4/7 - TBD <br>
+4/21 - TBD <br>
+5/5 - TBD <br>
 
 ## Fall 2019 Schedule
 
@@ -19,9 +25,28 @@ Stay tuned for our spring schedule and topics!
 12/6 - *End of Semester Meeting* <br>
 
 ## Upcoming Meetings
-### TBD
+### Environmental Concerns, February 25th, 2020
+
+Computing technology has a massive carbon footprint. How can be better understand the carbon footprint of NLP models today and what should we take into account when building these technologies? 
+
+Energy and Policy Considerations for Deep Learning in NLP, Strubell et al - <https://arxiv.org/abs/1906.02243>
+Environmental Impact of Large-Scale NLP Model Training with Emma Strubell (podcast) - <https://twimlai.com/twiml-talk-286-environmental-impact-of-large-scale-nlp-model-training-with-emma-strubell/>
+
+### NLP and Fake News Detection, March 10th, 2020
+
+Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
+
+Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
+
+### Psychology of Technology, March 24th, 2020
+
+Details soon!
 
 ## Previous Meetings
+### End of Semester Recap Meeting, December 6th, 2019
+
+Overview of what we've accomplished this semester and planning for the next semester of the reading group. Please feel very welcome to bring any suggestions or ideas!
+
 ### End of Semester Recap Meeting, December 6th, 2019
 
 Overview of what we've accomplished this semester and planning for the next semester of the reading group. Please feel very welcome to bring any suggestions or ideas!
