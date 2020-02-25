@@ -11,9 +11,9 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 
 2/11 - *Beginning of Semester Meeting* <br>
 2/25 - *Environment Concerns* <br>
-3/10 - *NLP and Fake News Detections* <br>
+3/10 - *Unions in Tech with Wes from CWA-CODE* <br>
 3/24 - *Psychology of Technology* <br>
-4/7 - TBD <br>
+4/7 - *NLP and Fake News Detections* <br>
 4/21 - TBD <br>
 5/5 - TBD <br>
 
