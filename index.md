@@ -11,7 +11,7 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 
 2/11 - *Beginning of Semester Meeting* <br>
 2/25 - *Environment Concerns* <br>
-3/10 - *Unions in Tech with Wes from CWA-CODE* <br>
+3/10 - *Unions in Tech with Wes from CODE-CWA* <br>
 3/24 - *Psychology of Technology* <br>
 4/7 - *NLP and Fake News Detections* <br>
 4/21 - TBD <br>
@@ -36,17 +36,28 @@ Computing technology has a massive carbon footprint. How can be better understan
 Energy and Policy Considerations for Deep Learning in NLP, Strubell et al - <https://arxiv.org/abs/1906.02243>
 Environmental Impact of Large-Scale NLP Model Training with Emma Strubell (podcast) - <https://twimlai.com/twiml-talk-286-environmental-impact-of-large-scale-nlp-model-training-with-emma-strubell/>
 
-### NLP and Fake News Detection, March 10th, 2020
+### Unions in Tech, March 10th, 2020
+
+Guest speaker! Wes, a Campaign Lead with Communication Workers of America's Campaign to Organize Digital Employees (CODE-CWA) will be coming to talk about CWA's initiative to support techonolgy and game workers organizing in their workplaces and to answer questions on unions and their role in technology workplaces. 
+
+#### Readings
+
+Kickstarter Employees Vote to Unionize in a Big Step for Tech, Corger and Scheiber - <https://www.nytimes.com/2020/02/18/technology/kickstarter-union.html> <br>
+Tech Workers Need to Keep Organizing, Chen - <https://www.jacobinmag.com/2018/11/tech-worker-organizing-google-union-walkout> <br>
+Organizing High Tech: Unions & Their Future, Early and Wilson - <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1071&context=lrr> <br>
+Collective Actions In Tech, a database - <https://collectiveactions.tech/> <br>
+
+### Psychology of Technology, March 24th, 2020
+
+Details soon!
+
+### NLP and Fake News Detection, April 7th, 2020
 
 Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
 
 #### Readings
 
 Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
-
-### Psychology of Technology, March 24th, 2020
-
-Details soon!
 
 ## Previous Meetings
 ### End of Semester Recap Meeting, December 6th, 2019
