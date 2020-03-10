@@ -15,7 +15,7 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 3/24 - *Psychology of Technology* <br>
 4/7 - *NLP and Fake News Detections* <br>
 4/21 - TBD <br>
-5/5 - TBD <br>
+5/5 - *Guest talk with Ben Tarnoff, co-founder and editor of Logic Magazine* <br>
 
 ## Fall 2019 Schedule
 
