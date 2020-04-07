@@ -7,7 +7,9 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 ## Spring 2020 Schedule
 Meetings are every other Tuesday, from 5:00 - 6:30pm. 
 
-The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9) (although, if the weather is nice, sometimes we'll convene on the grass outside Volen, next to Chapels Field).  
+~The location for our meetings is Volen 101 in the [Volen Center for Complex Systems](https://goo.gl/maps/Z2sJtW1zjDJKbyrg9) (although, if the weather is nice, sometimes we'll convene on the grass outside Volen, next to Chapels Field).~
+
+Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom. Please reach-out to the reading circle organizers for an invite, if you have not received the Zoom meeting info.
 
 2/11 - *Beginning of Semester Meeting* <br>
 2/25 - *Environment Concerns* <br>
