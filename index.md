@@ -11,10 +11,10 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 
 2/11 - *Beginning of Semester Meeting* <br>
 2/25 - *Environment Concerns* <br>
-3/10 - *Unions in Tech with Wes from CODE-CWA* <br>
-3/24 - *Psychology of Technology* <br>
-4/7 - *NLP and Fake News Detections* <br>
-4/21 - TBD <br>
+3/10 - *Unions in Tech* <br>
+3/24 - *Unions in Tech Part II with Wes from CODE-CWA*  (rescheduled) <br> 
+4/7 -  *Psychology of Technology* <br>
+4/21 - *NLP and Fake News Detections* <br>
 5/5 - *Guest talk with Ben Tarnoff, co-founder and editor of Logic Magazine* <br>
 
 ## Fall 2019 Schedule
@@ -27,14 +27,25 @@ The location for our meetings is Volen 101 in the [Volen Center for Complex Syst
 12/6 - *End of Semester Meeting* <br>
 
 ## Upcoming Meetings
-### Environmental Concerns, February 25th, 2020
 
-Computing technology has a massive carbon footprint. How can be better understand the carbon footprint of NLP models today and what should we take into account when building these technologies? 
+
+### Psychology of Technology, March 24th, 2020
+
+Some opens questions concerning technology: a hammer can be said to be the cause of nailing, but it is also true that the end of building a house is even moreso the cause of nailing. What ends cause our interactions with technology, and what ends cause organizations like Google's interactions with technology? Material wealth comes to mind as an answer, but what kind of material wealth, and why that kind in particular?
+
+#### Readings 
+
+Martin Heidegger. 1977. The question concerning technology, and other essays. Garland Pub, New York.
+
+### NLP and Fake News Detection, April 7th, 2020
+
+Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
 
 #### Readings
 
-Energy and Policy Considerations for Deep Learning in NLP, Strubell et al - <https://arxiv.org/abs/1906.02243>
-Environmental Impact of Large-Scale NLP Model Training with Emma Strubell (podcast) - <https://twimlai.com/twiml-talk-286-environmental-impact-of-large-scale-nlp-model-training-with-emma-strubell/>
+Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
+
+## Previous Meetings
 
 ### Unions in Tech, March 10th, 2020
 
@@ -47,22 +58,14 @@ Tech Workers Need to Keep Organizing, Chen - <https://www.jacobinmag.com/2018/11
 Organizing High Tech: Unions & Their Future, Early and Wilson - <https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1071&context=lrr> <br>
 Collective Actions In Tech, a database - <https://collectiveactions.tech/> <br>
 
-### Psychology of Technology, March 24th, 2020
+### Environmental Concerns, February 25th, 2020
 
-Details soon!
-
-### NLP and Fake News Detection, April 7th, 2020
-
-Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
+Computing technology has a massive carbon footprint. How can be better understand the carbon footprint of NLP models today and what should we take into account when building these technologies? 
 
 #### Readings
 
-Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
-
-## Previous Meetings
-### End of Semester Recap Meeting, December 6th, 2019
-
-Overview of what we've accomplished this semester and planning for the next semester of the reading group. Please feel very welcome to bring any suggestions or ideas!
+Energy and Policy Considerations for Deep Learning in NLP, Strubell et al - <https://arxiv.org/abs/1906.02243>
+Environmental Impact of Large-Scale NLP Model Training with Emma Strubell (podcast) - <https://twimlai.com/twiml-talk-286-environmental-impact-of-large-scale-nlp-model-training-with-emma-strubell/>
 
 ### End of Semester Recap Meeting, December 6th, 2019
 
