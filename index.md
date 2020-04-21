@@ -28,16 +28,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meetings
 
-
-### Psychology of Technology, March 24th, 2020
-
-Some opens questions concerning technology: a hammer can be said to be the cause of nailing, but it is also true that the end of building a house is even moreso the cause of nailing. What ends cause our interactions with technology, and what ends cause organizations like Google's interactions with technology? Material wealth comes to mind as an answer, but what kind of material wealth, and why that kind in particular?
-
-#### Readings 
-
-Martin Heidegger. 1977. The question concerning technology, and other essays. Garland Pub, New York.
-
-### NLP and Fake News Detection, April 7th, 2020
+### NLP and Fake News Detection, April 21st, 2020
 
 Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
 
@@ -46,6 +37,15 @@ Progress in natural language generation has raised concerns regarding their use 
 Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
 
 ## Previous Meetings
+
+
+### Psychology of Technology, April 7th, 2020
+
+Some opens questions concerning technology: a hammer can be said to be the cause of nailing, but it is also true that the end of building a house is even moreso the cause of nailing. What ends cause our interactions with technology, and what ends cause organizations like Google's interactions with technology? Material wealth comes to mind as an answer, but what kind of material wealth, and why that kind in particular?
+
+#### Readings 
+
+Martin Heidegger. 1977. The question concerning technology, and other essays. Garland Pub, New York.
 
 ### Unions in Tech, March 10th, 2020
 
