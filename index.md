@@ -29,7 +29,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 ## Upcoming Meetings
 ### Guest talk with Ben Tarnoff, co-founder and editor of Logic Magazine, May 5th, 2020
 
-Ben Tarnoff is tech worker, writer, and co-founder of Logic Magazine. He's been one of the leading writters chronicling labor activism in the techonology sector.   
+Ben Tarnoff is tech worker, writer, and co-founder of Logic Magazine. He's been one of the leading writers chronicling labor activism in the techonology sector.   
 
 #### Readings
 
