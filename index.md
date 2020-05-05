@@ -21,7 +21,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 9/27 - *Foundations* <br>
 10/11 - *Societal Influence* <br>
-10/25 - *Bias and Discrimination* <br>
+10/25 - *Bias and Discrimination*<br>
 11/8 - *Data Collection and Surveillence* <br>
 11/22 - *NLP and Exploitation* <br>
 12/6 - *End of Semester Meeting* <br>
