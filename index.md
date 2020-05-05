@@ -27,7 +27,16 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 12/6 - *End of Semester Meeting* <br>
 
 ## Upcoming Meetings
+### Guest talk with Ben Tarnoff, co-founder and editor of Logic Magazine, May 5th, 2020
 
+Ben Tarnoff is tech worker, writer, and co-founder of Logic Magazine. He's been one of the leading writters chronicling labor activism in the techonology sector.   
+
+#### Readings
+
+The Making of the Tech Worker Movement, Tarnoff - https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/ <br>
+From Manchester to Barcelona, Tarnoff - https://logicmag.io/nature/from-manchester-to-barcelona/
+
+## Previous Meetings
 ### NLP and Fake News Detection, April 21st, 2020
 
 Progress in natural language generation has raised concerns regarding their use in harmful applications, like the generatation of neural fake news. How can we apply the approach of threat modeling to recent NLP techologies in terms of their applicability and perpencity towards harm? What approaches can we use to identify fake news and other misuses of NLP technology? 
@@ -35,8 +44,6 @@ Progress in natural language generation has raised concerns regarding their use 
 #### Readings
 
 Defending Against Neural Fake News, Zellers et al - <https://arxiv.org/abs/1905.12616>
-
-## Previous Meetings
 
 
 ### Psychology of Technology, April 7th, 2020
