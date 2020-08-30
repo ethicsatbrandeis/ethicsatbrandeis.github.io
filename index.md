@@ -2,7 +2,7 @@
 ## This the *Ethics in NLP* reading circle at Brandeis.  
 The Ethics in Natural Language Processing (NLP) reading circle is a graduate student led reading group housed in the Department of Computer Science at Brandeis University. While the group is centered around the computational linguistics community at Brandeis, anyone interested in the topic is welcome to join us!
 
-PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. 
+PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub. TEST
 
 ## Spring 2020 Schedule
 Meetings are every other Tuesday, from 5:00 - 6:30pm. 
