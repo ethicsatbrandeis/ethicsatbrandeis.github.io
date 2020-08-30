@@ -10,11 +10,11 @@ Meetings are (tentatively) every other Monday, from 12:00 - 1:30pm.
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom. Please reach-out to the reading circle organizers for an invite, if you have not received the Zoom meeting info.
 
 9/14 - *Beginning of Semester Meeting* <br>
-10/5 - 
-10/19 - 
-11/2 - 
-11/16 - 
-11/30 - 
+10/5 -  <br>
+10/19 - <br>
+11/2 - <br>
+11/16 - <br>
+11/30 - <br>
 
 ## Upcoming Meetings
 
