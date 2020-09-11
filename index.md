@@ -7,16 +7,9 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 Recurring Zoom link for meetings: https://brandeis.zoom.us/j/96622130773
 
 ## Fall 2020 Schedule
-Meetings are (tentatively) every other Monday, from 12:00 - 1:30pm. 
+Meetings times are not yet set for the semester. If you are interested in attending, please fill out this When2Meet poll: https://www.when2meet.com/?9770928-XQfLl. 
 
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
-
-9/14 - *Beginning of Semester Meeting* <br>
-10/5 -  <br>
-10/19 - <br>
-11/2 - <br>
-11/16 - <br>
-11/30 - <br>
 
 ## Upcoming Meetings
 
