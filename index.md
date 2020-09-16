@@ -11,8 +11,8 @@ Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the e
 
 9/24 - *Beginning of Semester Meeting* <br>
 10/8 - *(Julian Fernandez)* <br>
-10/22 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
-11/5 - <br>
+10/22 - <br>
+11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
 11/19 - *(Eben Holderness)* <br>
 12/3 - *Guest Speaker: [Kristen Sheets](https://sheetskristen.github.io/)* <br>
 
