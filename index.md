@@ -10,11 +10,11 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the entire 90 minute block. 
 
 9/24 - *Beginning of Semester Meeting* <br>
-10/8 -  <br>
+10/8 - *(Julian Fernandez)* <br>
 10/22 - <br>
 11/5 - <br>
-11/19 - <br>
-12/3 - <br>
+11/19 - *Guest Speaker: [Kristen Sheets](https://sheetskristen.github.io/)* <br>
+12/3 - *Environmental Impacts of Computation (Eben Holderness)* <br>
 
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
 
