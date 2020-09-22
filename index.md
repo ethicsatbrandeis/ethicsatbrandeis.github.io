@@ -24,7 +24,7 @@ Stop by our first meeting of the semester to help gauge people's interests and g
 
 #### Readings
 
-[Association of Computing Machinery *Code of Ethics*](https://www.acm.org/code-of-ethics)
+[Association of Computing Machinery *Code of Ethics*](https://www.acm.org/code-of-ethics) <br>
 [Linguistics Society of America *Ethics Statement*](https://www.linguisticsociety.org/sites/default/files/Ethics_Statement.pdf)
 
 ## Previous Meetings
