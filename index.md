@@ -18,8 +18,12 @@ Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the e
 
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
 
-## Upcoming Meetings
+## Upcoming Meeting
+9/24 - *Beginning of Semester Meeting* <br>
+Stop by our first meeting of the semester to help gauge people's interests and goals for the rest of the year. We'll start with introductions and some administrative tasks, followed by an open-ended discussion on topics in ethics across the computer science and linguistics spectrum, and what we might be interested in honing in on in future meetings. 
 
 #### Readings
+
+n/a
 
 ## Previous Meetings
