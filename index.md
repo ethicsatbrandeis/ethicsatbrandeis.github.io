@@ -22,7 +22,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 9/24 - *Beginning of Semester Meeting* <br>
 Stop by our first meeting of the semester to help gauge people's interests and goals for the rest of the year. We'll start with introductions and some administrative tasks, followed by an open-ended discussion on topics in ethics across the computer science and linguistics spectrum, and what we might be interested in honing in on in future meetings. 
 
-#### (https://github.com/ethicsatbrandeis/readings/tree/master/intro_readings)[Readings]
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/intro_readings)
 
 [Association of Computing Machinery *Code of Ethics*](https://www.acm.org/code-of-ethics) <br>
 [Linguistics Society of America *Ethics Statement*](https://www.linguisticsociety.org/sites/default/files/Ethics_Statement.pdf)
