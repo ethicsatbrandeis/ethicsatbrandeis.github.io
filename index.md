@@ -19,13 +19,15 @@ Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the e
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
 
 ## Upcoming Meeting
+10/22 - <br>
+
+## Previous Meetings
 10/8 - *AI in Education (Julian Fernandez)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/ai_education)
 
-[Brummelen et al (2020), *Teaching Tech to Talk*](https://github.com/ethicsatbrandeis/readings/blob/master/ai_education/teaching_tech_to_talk.pdf)
+[Brummelen et al (2020), *Teaching Tech to Talk*](https://github.com/ethicsatbrandeis/readings/blob/master/ai_education/teaching_tech_to_talk.pdf)<br><br>
 
-## Previous Meetings
 9/24 - *Beginning of Semester Meeting* <br>
 Stop by our first meeting of the semester to help gauge people's interests and goals for the rest of the year. We'll start with introductions and some administrative tasks, followed by an open-ended discussion on topics in ethics across the computer science and linguistics spectrum, and what we might be interested in honing in on in future meetings. 
 
