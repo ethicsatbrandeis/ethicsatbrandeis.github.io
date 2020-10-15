@@ -11,7 +11,7 @@ Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the e
 
 9/24 - *Beginning of Semester Meeting* <br>
 10/8 - *AI in Education (Julian Fernandez)* <br>
-10/22 - *Ethics in Robotics (Lucia Donatelli)* <br>
+10/22 - *Robots in the military (Lucia Donatelli)* <br>
 11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
 11/19 - *Reproducibility of Findings (Eben Holderness)* <br>
 12/3 - *Guest Speaker: [Kristen Sheets](https://sheetskristen.github.io/)* <br>
@@ -20,6 +20,12 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 10/22 - *Ethics in Robotics (Lucia Donatelli)* <br>
+
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/robots_military)
+
+[Leonard Kahn, *Military Robots and the Likelihood of Armed Combat*](https://github.com/ethicsatbrandeis/readings/blob/master/robots_military/KahnLeonardMilitaryRobots.pdf)<br>
+
+[Thomas Hellström, *On the moral responsibility of military robots*](https://github.com/ethicsatbrandeis/readings/blob/master/robots_military/HellstroemThomas.pdf)<br>
 
 ## Previous Meetings
 10/8 - *AI in Education (Julian Fernandez)* <br>
