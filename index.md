@@ -19,6 +19,11 @@ Meetings are every other Thursday, from 3-4:30pm. Sometimes we may not use the e
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
 
 ## Upcoming Meeting
+
+11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
+
+## Previous Meetings
+
 10/22 - *Robots in the Military (Lucia Donatelli)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/robots_military)
@@ -27,7 +32,8 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 [Thomas Hellström, *On the moral responsibility of military robots*](https://github.com/ethicsatbrandeis/readings/blob/master/robots_military/HellstroemThomas.pdf)<br>
 
-## Previous Meetings
+------- <br>
+
 10/8 - *AI in Education (Julian Fernandez)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/ai_education)
