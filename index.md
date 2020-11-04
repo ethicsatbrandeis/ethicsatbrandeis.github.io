@@ -24,7 +24,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/robotic_agents_morality)
 
-[Mallet et al, *Networks of social and moral norms in human and robot agents*](https://github.com/ethicsatbrandeis/readings/blob/master/robotic_agents_morality/Malle%26ScheutzAusterweilWorld_of_Robots.pdf)<br>
+[Malle et al, *Networks of social and moral norms in human and robot agents*](https://github.com/ethicsatbrandeis/readings/blob/master/robotic_agents_morality/Malle%26ScheutzAusterweilWorld_of_Robots.pdf)<br>
 
 ## Previous Meetings
 
