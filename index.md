@@ -22,6 +22,10 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
 
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/robotic_agents_morality)
+
+[Mallet et al, *Networks of social and moral norms in human and robot agents*](https://github.com/ethicsatbrandeis/readings/blob/master/robotic_agents_morality/Malle%26ScheutzAusterweilWorld_of_Robots.pdf)<br>
+
 ## Previous Meetings
 
 10/22 - *Robots in the Military (Lucia Donatelli)* <br>
