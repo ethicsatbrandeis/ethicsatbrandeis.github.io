@@ -20,13 +20,20 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
+11/19 - *Reproducibility of Findings (Eben Holderness)* <br>
+
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/Replication_NLP)
+[Ted Pedersen, *Empiricism Is Not a Matter of Faith*](https://github.com/ethicsatbrandeis/readings/blob/master/Replication_NLP/Pederson_Empricism.pdf)<br>
+
+## Previous Meetings
+
 11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/robotic_agents_morality)
 
 [Malle et al, *Networks of social and moral norms in human and robot agents*](https://github.com/ethicsatbrandeis/readings/blob/master/robotic_agents_morality/Malle%26ScheutzAusterweilWorld_of_Robots.pdf)<br>
 
-## Previous Meetings
+------- <br>
 
 10/22 - *Robots in the Military (Lucia Donatelli)* <br>
 
