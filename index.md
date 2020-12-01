@@ -20,12 +20,18 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
+12/3 - *Guest Speaker: [Kristen Sheets](https://sheetskristen.github.io/)* <br>
+
+#### [Readings]()
+
+## Previous Meetings
+
 11/19 - *Reproducibility of Findings (Eben Holderness)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/Replication_NLP)
 [Ted Pedersen, *Empiricism Is Not a Matter of Faith*](https://github.com/ethicsatbrandeis/readings/blob/master/Replication_NLP/Pederson_Empricism.pdf)<br>
 
-## Previous Meetings
+------- <br>
 
 11/5 - *Guest Speaker: [James Pustejovsky](http://jamespusto.com/)*<br>
 
