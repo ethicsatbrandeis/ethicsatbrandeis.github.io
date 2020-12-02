@@ -23,9 +23,11 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 12/3 - *Guest Speaker: [Kristen Sheets](https://sheetskristen.github.io/)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/politics_of_algorithms)
-[Nick Seaver, *Algorithms as culture: Some tactics for the ethnography of algorithmic systems*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/algorithms_as_culture.pdf)<br>
-[Langdon Winner, *Do artifacts have politics?*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/do_artifcats_have_politics.pdf)<br>
-If you have already read the Winner article last year: [Bernward Joerges, *Do politics have artefacts?*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/do_politics_have_artefacts.pdf)<br>
+[Nick Seaver, *Algorithms as Culture: Some Tactics for the Ethnography of Algorithmic Systems*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/algorithms_as_culture.pdf)<br>
+
+[Langdon Winner, *Do Artifacts Have Politics?*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/do_artifcats_have_politics.pdf)<br>
+
+If you have already read the Winner article last year: [Bernward Joerges, *Do Politics Have Artefacts?*](https://github.com/ethicsatbrandeis/readings/blob/master/politics_of_algorithms/do_politics_have_artefacts.pdf)<br>
 
 ## Previous Meetings
 
