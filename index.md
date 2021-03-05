@@ -18,7 +18,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
-3/12 - *(Derek McCarthy)* <br>
+3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/social_impact)
 
