@@ -4,7 +4,7 @@ The Ethics in Computer Science and Linguistics reading circle is a graduate stud
 
 PDFs for all readings are accesible in the [readings repository](https://github.com/ethicsatbrandeis/readings) on our GitHub.
 
-[Recurring Zoom link for meetings](https://brandeis.zoom.us/j/96622130773)
+[Recurring Zoom link for meetings](https://brandeis.zoom.us/j/92376328916)
 
 ## Spring 2021 Schedule
 Meetings are every other Friday, from 2-3:30pm. Sometimes we may not use the entire 90 minute block. 
