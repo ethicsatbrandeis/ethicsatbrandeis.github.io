@@ -12,7 +12,7 @@ Meetings are every other Friday, from 2-3:30pm. Sometimes we may not use the ent
 3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
 3/26 - *TBA* <br>
 4/9 - *(Kelley Lynch)* <br>
-4/23 - *Guest Speaker: (Lotus Goldberg)[https://sites.google.com/a/brandeis.edu/lotusgoldberg/]*<br>
+4/23 - *Guest Speaker: [Lotus Goldberg](https://sites.google.com/a/brandeis.edu/lotusgoldberg/)*<br>
 
 Due to the current pandemic situation with COVID-19, the reading circle will be meeting via Zoom.
 
