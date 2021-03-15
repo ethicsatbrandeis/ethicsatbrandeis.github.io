@@ -10,7 +10,7 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 Meetings are every other Friday, from 2-3:30pm. Sometimes we may not use the entire 90 minute block. 
 
 3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
-3/26 - *TBA* <br>
+3/26 - *(Parker Glenn)* <br>
 4/9 - *(Kelley Lynch)* <br>
 4/23 - *Guest Speaker: [Lotus Goldberg](https://sites.google.com/a/brandeis.edu/lotusgoldberg/)*<br>
 
@@ -18,11 +18,15 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
+3/26 - *(Parker Glenn)* <br>
+
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/social_impact)
+
+## Previous Meetings
+
 3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/social_impact)
 
 [Hovy and Spruit, *The Social Impact of NLP*](https://github.com/ethicsatbrandeis/readings/blob/master/social_impact/social_impact_nlp.pdf) <br>
 [Leins et al., Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?](https://github.com/ethicsatbrandeis/readings/blob/master/social_impact/appropriate_use_nlp.pdf)
-
-## Previous Meetings
