@@ -10,7 +10,7 @@ PDFs for all readings are accesible in the [readings repository](https://github.
 Meetings are every other Friday, from 2-3:30pm. Sometimes we may not use the entire 90 minute block. 
 
 3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
-3/26 - *(Parker Glenn)* <br>
+3/26 - Fake News and Fake News Detection *(Parker Glenn)* <br>
 4/9 - *(Kelley Lynch)* <br>
 4/23 - *Guest Speaker: [Lotus Goldberg](https://sites.google.com/a/brandeis.edu/lotusgoldberg/)*<br>
 
@@ -18,9 +18,12 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
-3/26 - *(Parker Glenn)* <br>
+3/26 - Fake News and Fake News Detection *(Parker Glenn)* <br>
 
-#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/social_impact)
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/fake_news)
+
+[Etienne Brown, *"Fake News" and Conceptual Ethics*](https://github.com/ethicsatbrandeis/readings/blob/master/fake_news/Fake_News_and_Conceptual_Ethics.pdf)
+[Oshikawa et al., *A Survey on NLP for Fake News Detection*](https://github.com/ethicsatbrandeis/readings/blob/master/fake_news/fake_news_detection.pdf)
 
 ## Previous Meetings
 
