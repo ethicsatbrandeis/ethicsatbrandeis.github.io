@@ -22,7 +22,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/fake_news)
 
-[Etienne Brown, *"Fake News" and Conceptual Ethics*](https://github.com/ethicsatbrandeis/readings/blob/master/fake_news/Fake_News_and_Conceptual_Ethics.pdf)
+[Etienne Brown, *"Fake News" and Conceptual Ethics*](https://github.com/ethicsatbrandeis/readings/blob/master/fake_news/Fake_News_and_Conceptual_Ethics.pdf) <br>
 [Oshikawa et al., *A Survey on NLP for Fake News Detection*](https://github.com/ethicsatbrandeis/readings/blob/master/fake_news/fake_news_detection.pdf)
 
 ## Previous Meetings
