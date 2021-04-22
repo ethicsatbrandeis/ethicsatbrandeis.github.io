@@ -18,6 +18,15 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
+4/23 - Language Endangerment *Guest Speaker: Lotus Goldberg* <br>
+
+#### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/language_endangerment)
+
+[Ken Hale, *On endangered languages and the safeguarding of diversity*](https://github.com/ethicsatbrandeis/readings/blob/master/language_endangerment/1992_HaleEtAl1_EndangeredLanguages_Language_Text.pdf)<br>
+[Suzanne Romaine, *Preserving Endangered Languages*](https://github.com/ethicsatbrandeis/readings/blob/master/language_endangerment/2007_Romaine_PreservingEndangeredLangs_LangAndLxCompass.pdf)<br>
+
+## Previous Meetings
+
 4/9 - Content Moderation *(Kelley Lynch)* <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/content_moderation)
@@ -25,8 +34,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 [Vidgen et al., *Challenges and frontiers in abusive content detection*](https://github.com/ethicsatbrandeis/readings/blob/master/content_moderation/challenges_and_frontiers_in_abusive_content_detection.pdf)<br>
 [Binns et al., *Like trainer, like bot? Inheritance of bias in algorithmic content moderation*](https://github.com/ethicsatbrandeis/readings/blob/master/content_moderation/like_trainer_like_bot.pdf)<br>
 
-
-## Previous Meetings
+---
 
 3/12 - Social Impact of NLP *(Derek McCarthy)* <br>
 
