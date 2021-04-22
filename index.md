@@ -18,7 +18,7 @@ Due to the current pandemic situation with COVID-19, the reading circle will be 
 
 ## Upcoming Meeting
 
-4/23 - Language Endangerment *Guest Speaker: Lotus Goldberg* <br>
+4/23 - Language Endangerment (*Guest Speaker: Lotus Goldberg*) <br>
 
 #### [Readings](https://github.com/ethicsatbrandeis/readings/tree/master/language_endangerment)
 
